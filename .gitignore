@@ -1,0 +1,20 @@
+# Compiled Object/Library files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+
+# input folder
+input/
+
+# log 
+*.log
+
+# vim
+*.swo
+*.swp
+# clangd
+*.clangd
